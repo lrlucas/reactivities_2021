@@ -1,0 +1,12 @@
+/Users/lucassuarez/Developer/code/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/lucassuarez/Developer/code/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/lucassuarez/Developer/code/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/lucassuarez/Developer/code/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/lucassuarez/Developer/code/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
